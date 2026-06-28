@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Raj Singh</h1>
 <h3 align="center">Full-Stack Developer | MCA Student at RCC Institute of Information Technology | DSA Enthusiast</h3>
 
@@ -131,4 +130,4 @@
 <h3 align="center">
 ✨ Keep Learning • Keep Building • Keep Growing ✨
 </h3>
-```
+
