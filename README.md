@@ -1,50 +1,118 @@
-<h1 align="center">Hi 👋, I'm Raj Singh</h1>
-<h3 align="center">Full-Stack MERN Developer | Machine Learning Enthusiast | MCA Student</h3>
+<h1 align="center">Hi, I'm Raj Singh</h1>
+<h3 align="center">Full-Stack Developer | MCA Student at RCC Institute of Information Technology | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;229%2B+GitHub+Contributions+This+Year" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+</p>
+
+# 👨‍💻 About Me
+
+- 🎓 MCA Student at **RCC Institute of Information Technology, Kolkata**
+- 🎓 BCA Graduate from **Dr. B.C. Academy of Professional Courses, Durgapur (CGPA: 7.3/10)**
+- 💻 Full-Stack Developer specializing in the **MERN Stack**
+- 🤖 Currently working as a **Machine Learning Intern at Cognifyz IT Solutions Pvt. Ltd.**
+- 🌱 Learning **Data Structures & Algorithms, Machine Learning, and Backend Development**
+- 🚀 Passionate about building scalable web applications and solving real-world problems
+- 📍 India
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🌟 Featured Projects
 
-- 🎓 MCA Student at **RCC Institute of Information Technology**
-- 💻 Passionate **MERN Stack Developer**
-- 🤖 Machine Learning Enthusiast
-- 🌱 Currently exploring **AI, Machine Learning & Advanced Backend Development**
-- 🔥 **229+ GitHub Contributions** in the last year
-- 📚 Solving DSA problems & building real-world projects
-- 🚀 Open to internships and collaboration
+## 🛒 E-Commerce Website (Full Stack Application)
+
+**Tech Stack:** React • JavaScript • Tailwind CSS • MongoDB • Express.js • Node.js
+
+- JWT-based Authentication & Role-Based Access
+- Complete MERN Stack Full-Stack E-Commerce Platform
 
 ---
 
-## 💻 Primary Tech Stack
+## 💬 Real-Time Chat Application
 
-### 🌐 MERN Stack
+**Tech Stack:** React • JavaScript • MongoDB • Socket.io
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+- Instant Real-Time Messaging
+- Secure User Authentication
+
+---
+
+## 🏥 Hospital Management System
+
+**Tech Stack:** HTML • CSS • JavaScript • Django
+
+- Patient & Appointment Management
+- Admin Dashboard with CRUD Operations
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RajSingh26&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajSingh26&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSingh26&layout=compact&theme=tokyonight"/>
+
 </p>
 
-### 🤖 Machine Learning
+---
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-</p>
+# 📜 Certifications
 
-### 💡 Other Skills
+- ✅ Build a Backend REST API with Node JS from Scratch
+- ✅ Machine Learning Internship Offer Letter
+- ✅ Industrial Training Certificate
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-</p>
+---
+
+# 🏅 Achievements
+
+- 🚀 Machine Learning Intern at **Cognifyz IT Solutions Pvt. Ltd.**
+- 💼 Successfully completed Industrial Training in Full-Stack Web Development using Django and PostgreSQL/MySQL
+
+---
+
+# 📫 Connect with Me
+
+**GitHub:** https://github.com/RAJSINGH20
+
+**LinkedIn:** www.linkedin.com/in/raj-singh-250022283
+
+**Email:** rajsinghdurgapur26@gmail.com
+
+---
+
+<h3 align="center">
+✨ Keep Learning • Keep Building • Keep Growing ✨
+</h3>
