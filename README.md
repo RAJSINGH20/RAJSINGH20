@@ -78,10 +78,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAJSINGH20&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RAJSINGH20&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajSingh26&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJSINGH20&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RAJSINGH20&theme=tokyonight&hide_border=true"/>
 
 </p>
 
