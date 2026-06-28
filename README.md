@@ -88,20 +88,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RajSingh26&theme=onestar&no-frame=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-</p>
-
----
-
 # 📜 Certifications
 
 - ✅ Build a Backend REST API with Node JS from Scratch
@@ -119,9 +105,9 @@
 
 # 📫 Connect with Me
 
-**GitHub:** https://github.com/RajSingh26
+**GitHub:** https://github.com/RAJSINGH20
 
-**LinkedIn:** https://linkedin.com/in/rajsingh26
+**LinkedIn:** www.linkedin.com/in/raj-singh-250022283
 
 **Email:** rajsinghdurgapur26@gmail.com
 
