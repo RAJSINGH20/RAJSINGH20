@@ -82,7 +82,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajSingh26&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSingh26&layout=compact&theme=tokyonight"/>
 
 </p>
 
