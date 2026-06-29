@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raj Singh</h1>
-<h3 align="center">Full-Stack Developer | MCA Student at RCC Institute of Information Technology | DSA Enthusiast</h3>
+<h3 align="center">Full-Stack Developer with AI Intregation| MCA Student at RCC Institute of Information Technology | DSA Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
